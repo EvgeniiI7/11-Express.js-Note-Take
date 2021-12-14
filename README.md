@@ -28,8 +28,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Mock-Up
 
 The following images show the web application's appearance and functionality: 
-
-
+![ScreenShot]()
+![ScreenShot]()
 ## Getting Started
 
 The application should have a `db.json` file on the back end that will be used to store and retrieve notes using the `fs` module.
