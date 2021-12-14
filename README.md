@@ -54,7 +54,7 @@ The following API routes should be created:
 * https://dashboard.heroku.com/apps
 
 * The URL of the GitHub repository.
-* https://github.com/EvgeniiI7/11-Express.js-Note-Taker/blob/master/README.md
+* https://github.com/EvgeniiI7/11-Express.js-Note-Taker
 
 - - -
-evgenii ivanov
+Evgenii Ivanov
