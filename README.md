@@ -1,5 +1,5 @@
 # 11-Express.js-Note-Taker
-## User Story:
+## ```User Story```
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to completeThis application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
@@ -47,7 +47,7 @@ The following API routes should be created:
 
 
 ## Review
-```
+
 * The URL of the functional, deployed application.
 * https://homework-note-taker-app-evgeni.herokuapp.com
 * Link to Heroku Repository URL
@@ -55,6 +55,5 @@ The following API routes should be created:
 
 * The URL of the GitHub repository.
 * https://github.com/EvgeniiI7/11-Express.js-Note-Taker
-```
 - - -
 Evgenii Ivanov
