@@ -28,7 +28,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Mock-Up
 
 The following images show the web application's appearance and functionality: 
-![ScreenShot]()
+![ScreenShot](https://user-images.githubusercontent.com/88345845/145916809-1a7deb88-3f0d-44af-86ba-12a44dd4d61b.png)
 ![ScreenShot]()
 ## Getting Started
 
