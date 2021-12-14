@@ -26,10 +26,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Mock-Up
-
 The following images show the web application's appearance and functionality: 
 ![ScreenShot](https://user-images.githubusercontent.com/88345845/145916809-1a7deb88-3f0d-44af-86ba-12a44dd4d61b.png)
-![ScreenShot]()
+![ScreenShot](https://user-images.githubusercontent.com/88345845/145916865-0bcdad3f-129f-42eb-a47c-efc87c631f24.png)
 ## Getting Started
 
 The application should have a `db.json` file on the back end that will be used to store and retrieve notes using the `fs` module.
