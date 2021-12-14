@@ -52,8 +52,10 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application.
 * https://homework-note-taker-app-evgeni.herokuapp.com
+* Link to Heroku Repository URL
+* https://dashboard.heroku.com/apps
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository.
 
 - - -
 evgenii ivanov
