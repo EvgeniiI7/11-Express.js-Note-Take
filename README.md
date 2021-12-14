@@ -56,6 +56,7 @@ You are required to submit BOTH of the following for review:
 * https://dashboard.heroku.com/apps
 
 * The URL of the GitHub repository.
+* https://github.com/EvgeniiI7/11-Express.js-Note-Taker/blob/master/README.md
 
 - - -
 evgenii ivanov
