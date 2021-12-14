@@ -51,6 +51,7 @@ The following API routes should be created:
 You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application.
+* https://homework-note-taker-app-evgeni.herokuapp.com
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
