@@ -47,7 +47,7 @@ The following API routes should be created:
 
 
 ## Review
-
+```
 * The URL of the functional, deployed application.
 * https://homework-note-taker-app-evgeni.herokuapp.com
 * Link to Heroku Repository URL
@@ -55,6 +55,6 @@ The following API routes should be created:
 
 * The URL of the GitHub repository.
 * https://github.com/EvgeniiI7/11-Express.js-Note-Taker
-
+```
 - - -
 Evgenii Ivanov
